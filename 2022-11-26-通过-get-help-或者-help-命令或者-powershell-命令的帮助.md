@@ -1,7 +1,7 @@
 ---
 title: 通过 Get-Help 或者 Help 命令或者 Powershell 命令的帮助
 thumbnailImagePosition: left
-thumbnailImage: https://www.freepik.com/premium-ai-image/online-cloud-storage-contact-computing-tablet-phone-home-devices-with-online-linking-computer-cloud-with-server-connection-devices-connected-storage-data-center_57711599.htm
+thumbnailImage: https://img.freepik.com/premium-photo/online-cloud-storage-contact-computing-tablet-phone-home-devices-with-online-linking-computer-cloud-with-server-connection-devices-connected-storage-data-center_887181-5999.jpg
 coverImage: https://img.freepik.com/free-photo/transportation-technology-concept-intelligent-transport-systems_587448-4777.jpg
 metaAlignment: center
 coverMeta: out
@@ -11,6 +11,10 @@ categories:
 tags:
 - PowerShell
 ---
+对于不熟悉的命令，通过查看命令的帮助信息，对我们来说非常有用。
+
+<!--more-->
+
 Powershell 命令的信息包含：
 
   * Name：Powershell 命令的名称
@@ -20,7 +24,6 @@ Powershell 命令的信息包含：
   * Related Link：命令相关的链接（在线帮助）
   * Remarks：备注信息
 
-<!--more-->
 
 ```powershell
 PS C:\Windows\system32> Get-Help Write-Host

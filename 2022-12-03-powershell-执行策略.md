@@ -1,9 +1,8 @@
 ---
 title: PowerShell 执行策略
-title: Powershell Profile
 thumbnailImagePosition: left
-thumbnailImage: https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062010.jpg
-coverImage: https://img.freepik.com/free-photo/freelance-young-asian-businesswoman-casual-wear-using-laptop-working-living-room-home_7861-3022.jpg
+thumbnailImage: https://img.freepik.com/premium-photo/internet-connection-controlled-by-ai-robot-humanoid-machine-learning-process_472640-1197.jpg
+coverImage: https://img.freepik.com/premium-photo/businessman-hold-panel-global-logistics-network-distribution-transportation-smart-logistics_34200-454.jpg
 metaAlignment: center
 coverMeta: out
 date: 2022-12-03
@@ -15,6 +14,8 @@ tags:
 
 Powershell 执行策略是一项安全功能，能够防止恶意脚本在本地计算机上运行，但它不会影响到任何交互式命令。
 
+<!--more-->
+
 Powershell 支持的策略：
 
   * AllSigned: 所有的脚本（包含在本机编写脚本）都必须有受信任的发布者（Publisher）签名，如果脚本没有被签名，则会被阻止运行，并有错误提示
@@ -25,7 +26,7 @@ Powershell 支持的策略：
   * Undefined：没有应用任何策略，则自动使用默认策略
   * Unrestricted：所有脚本度可以运行，当运行非本地编写脚本时，会有警告提示
 
-<!--more-->
+
 
 所有的脚本可以被运用到不同级别（范围）
 

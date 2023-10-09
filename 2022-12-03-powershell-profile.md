@@ -11,7 +11,9 @@ categories:
 tags:
 - PowerShell
 ---
-我们可以通过 Profile 来自定义我们的 PowerShell 环境，如，自定义命令的别名，默认的工作路径，等等
+我们可以通过 Profile 来自定义我们的 PowerShell 环境，如，自定义命令的别名，默认的工作路径，等等。
+
+<!--more-->
 
 PowerShell 支持多个 Profile（优先级从高到底）：
 
@@ -19,8 +21,6 @@ PowerShell 支持多个 Profile（优先级从高到底）：
   * 所有用户，当前主机
   * 当前用户，所有主机
   * 当前用户，当前主机
-
-<!--more-->
 
 ```powershell
 PS C:\Windows\system32> $PROFILE

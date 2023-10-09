@@ -1,3 +1,4 @@
+---
 thumbnailImagePosition: left
 thumbnailImage: https://img.freepik.com/premium-photo/digital-marketing-media-social-network-mobile-app-virtual-icon-diagram-business-using-smartphone-tablet-as-concept_533878-307.jpg
 coverImage: https://img.freepik.com/premium-photo/digital-marketing-technology-concept-online-search-engine-social-network-financial-banking_34200-848.jpg
@@ -8,7 +9,6 @@ categories:
 - PowerShell
 tags:
 - PowerShell
-
 ---
 
 我们可以通过 $PSVersionTable 变量或者 Get-Host 命令来查看 Powershell 当前的版本。
