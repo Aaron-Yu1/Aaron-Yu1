@@ -5,7 +5,7 @@ thumbnailImage: https://s1.imagehub.cc/images/2023/10/09/left1.jpeg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 metaAlignment: center
 coverMeta: out
-date: 2015-05-13
+date: 2023-10-01
 categories:
 - Jenkins
 - CI/CD
