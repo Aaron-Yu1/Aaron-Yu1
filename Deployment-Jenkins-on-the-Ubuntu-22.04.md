@@ -1,7 +1,7 @@
 ---
 title: "在 Ubuntu 22.04 上部署 Jenkins"
 thumbnailImagePosition: left
-thumbnailImage: https://s1.imagehub.cc/images/2023/10/09/left1.webp
+thumbnailImage: https://s1.imagehub.cc/images/2023/10/09/left1.jpeg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 metaAlignment: center
 coverMeta: out
@@ -63,23 +63,23 @@ root@jenkins:~# cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
 在浏览器地址栏中输入 htt://<Jenkins IP\>:8080, 打开 Jenkins 初始化页面。输入初始化密码，初始化 Jenkins。
-[![A](https://s1.imagehub.cc/images/2023/10/09/A.png)]
+![A](https://s1.imagehub.cc/images/2023/10/09/A.png)
 
 安装推荐的插件（Suggested Plugins）。你也可以通过 Select plugins to install 选项来自定义需要安装的插件。
-[![B](https://s1.imagehub.cc/images/2023/10/09/B.png)]
+![B](https://s1.imagehub.cc/images/2023/10/09/B.png)
 
 等待插件安装完成。
-[![C](https://s1.imagehub.cc/images/2023/10/09/C.png)]
+![C](https://s1.imagehub.cc/images/2023/10/09/C.png)
 
 创建第一个 admin 用户，需要提供以下信息：
 - Username：用户名
 - Password：用户密码
 - Full Name：完整的名称
 - E-mail address：邮件地址
-[![D](https://s1.imagehub.cc/images/2023/10/09/D.png)]
+![D](https://s1.imagehub.cc/images/2023/10/09/D.png)
 
 实例（Instance）配置
-[![E](https://s1.imagehub.cc/images/2023/10/09/E.png)]
+![E](https://s1.imagehub.cc/images/2023/10/09/E.png)
 
 配置完成，可以开始使用 Jenkins 了。
-[![F](https://s1.imagehub.cc/images/2023/10/09/F.png)]
+![F](https://s1.imagehub.cc/images/2023/10/09/F.png)
