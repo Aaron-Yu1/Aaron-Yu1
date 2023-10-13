@@ -16,18 +16,18 @@ tags:
 <!--more-->
 
 打开 GitLab 网页后，在登录的页面，在用户名密码窗口的下面显示着 “Don't have an account yet? Register now”。
-![1](/img/2023-04-13-Disable-Auto-Register-1.png)
+![1](images/1.png)
 
 使用 root 用户登录到 GitLab，点击左上角的 Main menu 按钮（三个横杆），并选择 Admin，打开 Admin 页面。
-![2](/img/2023-04-13-Disable-Auto-Register-2.png)
+![2](images/2.png)
 
 在 Admin 页面的左侧，选择 Settings 按钮，进入设置页面。
-![3](/img/2023-04-13-Disable-Auto-Register-3.png)
+![3](images/3.png)
 
 在 General 页面下面，找到 Sign-up restrictions 并点击展开它。然后取消 Sign-up enabled 选项。
-![4](/img/2023-04-13-Disable-Auto-Register-4.png)
+![4](images/4.png)
 
 下拉滚动菜单，找到该喷子选项的保存按钮（Save Changes），点击并保存配置。
-![5](/img/2023-04-13-Disable-Auto-Register-5.png)
+![5](images/5.png)
 
 
