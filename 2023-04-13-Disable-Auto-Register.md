@@ -1,5 +1,5 @@
 ---
-title: 在 Ubuntu 22.04 上安装 GitLab
+title: 关闭 GitLab 自动注册功能
 thumbnailImagePosition: left
 thumbnailImage: https://img.freepik.com/free-photo/person-using-laptop_53876-95246.jpg
 date: 2023-04-13
