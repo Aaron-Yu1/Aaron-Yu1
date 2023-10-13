@@ -8,7 +8,7 @@ categories:
 - CI/CD
 tags:
 - GitLab
--CI/CD
+- CI/CD
 ---
 
 默认情况下，刚刚安装好的 Gitlab 是允许任何通过自助的方式注册。但实际情况，我们使用 GitLab 都是在公司内部，因此，我们通常不需要此功能。今天我们就来看看，怎么关闭它。
