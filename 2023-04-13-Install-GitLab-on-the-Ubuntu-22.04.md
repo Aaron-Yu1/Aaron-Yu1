@@ -8,7 +8,7 @@ categories:
 - CI/CD
 tags:
 - GitLab
--CI/CD
+- CI/CD
 ---
 
 今天我们来看一看，如何在 Ubuntu 上安装 GitLab。
