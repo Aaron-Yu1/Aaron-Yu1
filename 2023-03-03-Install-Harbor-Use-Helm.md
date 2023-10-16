@@ -5,8 +5,10 @@ thumbnailImage: https://img.freepik.com/premium-photo/multi-exposure-woman-hands
 date: 2023-03-03
 categories:
 - Harbor
+- Helm
 tags:
 - Harbor
+- Helm
 ---
 
 前面我们演示了如何在一台主机或虚拟机上安装 Harbor，今天我们来看一看，如何在一个 kubernetes 环境中，通过 Helm 安装 Harbor。

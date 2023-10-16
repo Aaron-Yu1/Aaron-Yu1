@@ -2,10 +2,7 @@
 title: "在 Kubernetes 上部署 Jenkins"
 thumbnailImagePosition: left
 thumbnailImage: https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg
-coverImage: https://img.freepik.com/free-photo/hands-typing-laptop-top-view_23-2149311919.jpg
-metaAlignment: center
-coverMeta: out
-date: 2023-10-01
+date: 2023-09-01
 categories:
 - Jenkins
 - CI/CD

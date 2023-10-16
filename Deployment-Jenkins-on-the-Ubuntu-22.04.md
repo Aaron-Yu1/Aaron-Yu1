@@ -2,10 +2,7 @@
 title: "在 Ubuntu 22.04 上部署 Jenkins"
 thumbnailImagePosition: left
 thumbnailImage: https://s1.imagehub.cc/images/2023/10/09/left1.jpeg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
-metaAlignment: center
-coverMeta: out
-date: 2023-10-01
+date: 2023-09-01
 categories:
 - Jenkins
 - CI/CD

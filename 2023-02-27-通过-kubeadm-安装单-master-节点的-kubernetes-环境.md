@@ -2,7 +2,7 @@
 title: 通过 Kubeadm 安装单 Master 节点的 kubernetes 环境
 thumbnailImagePosition: left
 thumbnailImage: https://img.freepik.com/premium-vector/wheel-helm-computer-developer-app-concept-business-digital-open-source-program-data-coding-steering_115739-1863.jpg
-date: 2023-02-26
+date: 2023-02-27
 categories:
 - Kubernetes
 tags:
