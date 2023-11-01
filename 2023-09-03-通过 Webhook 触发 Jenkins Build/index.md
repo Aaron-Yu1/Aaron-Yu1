@@ -2,7 +2,7 @@
 title: "通过 Webhook 触发 Jenkins Build"
 thumbnailImagePosition: left
 thumbnailImage: https://img.freepik.com/free-vector/professional-team-creating-business-solution-flat-icon_1262-18776.jpg
-date: 2023-09-02
+date: 2023-09-03
 categories:
 - Jenkins
 - CI/CD
