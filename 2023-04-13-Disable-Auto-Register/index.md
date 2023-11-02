@@ -3,6 +3,7 @@ title: 关闭 GitLab 自动注册功能
 thumbnailImagePosition: left
 thumbnailImage: https://img.freepik.com/free-photo/person-using-laptop_53876-95246.jpg
 date: 2023-04-13
+date: 2023-04-13T18:00:59
 categories:
 - GitLab
 - CI/CD
