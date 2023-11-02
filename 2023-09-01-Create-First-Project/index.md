@@ -2,7 +2,7 @@
 title: "创建第一个 Jenkins Project"
 thumbnailImagePosition: left
 thumbnailImage: https://img.freepik.com/premium-vector/social-media-coordination-video-content-production-vector-isometric-illustration-social-media-campai_453374-484.jpg
-date: 2023-09-01
+date: 2023-09-01T18:00:59
 categories:
 - Jenkins
 - CI/CD
